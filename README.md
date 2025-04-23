@@ -12,9 +12,9 @@ This is a simple Java-based 3D renderer using `JPanel` and `Graphics2D` to simul
 
 ## 📸 Preview
 
-![Preview Screenshot](./preview.png)
+<img src="./preview.png" alt="Preview Screenshot" width="600"/>
 
-> Note: You need to take a screenshot of the running app and save it as `preview.png` in the root of your project.
+
 
 ## 🧱 Built With
 
